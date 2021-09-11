@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 
 from huawei_lte_api.Client import Client
